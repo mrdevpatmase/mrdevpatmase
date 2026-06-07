@@ -43,7 +43,7 @@ Speech-to-Text input → NLP intent classification → Action execution → TTS 
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-patmase-642911215/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mrdevpatmase)
+[![LinkedIn](https://www.linkedin.com/in/devpatmase/)
+[![GitHub]((https://github.com/mrdevpatmase/Portfolio/blob/main/index.html))
 
-📧 your.email@gmail.com
+📧 devpatmase1@gmail.com
